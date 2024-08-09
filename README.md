@@ -27,6 +27,6 @@
    
   
  
-  [![manual run](https://github.com/Janielson-Anjos/Janielson-Anjos/actions/workflows/blank.yml/badge.svg)](https://github.com/Janielson-Anjos/Janielson-Anjos/actions/workflows/blank.yml)
+  ![Snake animation](https://github.com/Janielson-Anjos/Janielson-Anjos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
