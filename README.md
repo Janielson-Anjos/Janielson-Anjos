@@ -31,12 +31,11 @@
 </div>
 
 ###
-
-<p aling-text="center">Me segue nas redes abaixo!</p>
+ <br clear="both">
+ 
+<h4 align="center">Me segue nas redes abaixo!</h4>
 
 ###
- 
- <br>
  
    
   
