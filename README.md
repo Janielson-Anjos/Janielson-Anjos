@@ -32,7 +32,7 @@
 
 ###
 
-<p aling="center">Me segue nas redes abaixo!</p>
+<p aling-text="center">Me segue nas redes abaixo!</p>
 
 ###
  
