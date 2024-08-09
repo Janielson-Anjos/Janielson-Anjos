@@ -30,11 +30,13 @@
 
 ###
 
+<p aling="center">Me segue nas redes abaixo!</p>
+
 ###
  
  <br>
  
-   <p aling="center">Me segue nas redes abaixo!</p>
+   
   
  <div align="center">
   <a href="https://www.linkedin.com/in/janielson-anjos" target="_blank">
